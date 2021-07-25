@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#55152F",
+        "titleBar.activeBackground": "#761E42",
+        "titleBar.activeForeground": "#FEFBFD"
+    },
+    "liveServer.settings.port": 5501,
+    "cSpell.words": [
+        "REARG",
+        "concats",
+        "stylesheet"
+    ]
+}

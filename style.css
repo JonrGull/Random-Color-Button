@@ -1,0 +1,33 @@
+/* This is a 'stylesheet'. It defines how the elements appear when they are rendered by the browser. */
+
+html {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  font-family: monospace;
+  height: 100%;
+  justify-content: center;
+}
+
+#color-button {
+  /* Background color settings */
+  border-radius: 8px;
+  font-size: 20pt;
+  height: 50px;
+  width: 200px;
+}
+
+#image-button {
+  /* Wallpaper button settings */
+  border-radius: 8px;
+  font-size: 17pt;
+  height: 50px;
+  width: 200px;
+}
+.spacer {
+  /*Adds space to left of background button  */
+  margin-left: 15px;
+}
