@@ -1,14 +1,14 @@
 /* This is a 'stylesheet'. It defines how the elements appear when they are rendered by the browser. */
 
-html {
-  height: 100%;
-}
-
 body {
-  align-items: center;
+  background: no-repeat center fixed;
+  background-size: cover;
+}
+.buttons {
+  width: 100%;
+  height: 400px;
   display: flex;
-  font-family: monospace;
-  height: 100%;
+  align-items: center;
   justify-content: center;
 }
 
