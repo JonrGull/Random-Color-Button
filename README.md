@@ -6,4 +6,6 @@ Pretty simple! Just push the button and you'll get a randomly generate RGB code 
 
 Random function was made with Lodash framework library.
 
-You can try it here: https://jonrgull.github.io/Random-Color-Button/
+You can try it here - https://jonrgull.github.io/Random-Color-Button/
+
+It may take a second for the pictures to load!
