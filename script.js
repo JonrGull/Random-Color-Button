@@ -1,6 +1,5 @@
 "use strict";
 // please do not delete the 'use strict' line above
-const _ = require("lodash");
 
 document.getElementById("color-button").addEventListener("click", changeColor);
 document.getElementById("image-button").addEventListener("click", changeImage);
