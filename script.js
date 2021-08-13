@@ -2,7 +2,6 @@
 // please do not delete the 'use strict' line above
 
 document.getElementById("color-button").addEventListener("click", changeColor);
-document.getElementById("image-button").addEventListener("click", changeImage);
 document.getElementById("reset-button").addEventListener("click", resetPage);
 
 //Changes background color
